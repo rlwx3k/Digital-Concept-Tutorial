@@ -7,5 +7,6 @@ file's name is important, as that is how you're able to use Markdown in the file
 
 If you're wanting to add any additional file or files to your repository besides your README one, depending on what's on your screen, you may need to click on the little icon to the left of where it states your repository's name on the top of the page
 and where it states that you're on the main branch of your repository, which for the purpose of this tutorial, I won't be 
-getting into. After you've opened your file tree, you can now see a list of all your files, and, if you're wanting to add another one, you click on the + sign next to the magnifying glass.
-
+getting into. After you've opened your file tree, you can now see a list of all your files, and, if you're wanting to add another one, you click on the + sign next to the magnifying glass. You are then taken to a brand new file page, where you can
+name it something relative to what it's about. **Make sure to end your file name in .md if you want to use Markdown in it.**
+From there, you may either 
