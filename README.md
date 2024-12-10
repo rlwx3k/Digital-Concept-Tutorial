@@ -11,3 +11,5 @@ use of the word beginners in the tutorial's name.
 I decided to do this as my tutorial because I felt extremely lost my first time around using GitHub and trying to do an assignment using
 Markdown and different pages, so I want others to be able to actually know how to navigate their way around instead of having to dig a hole 
 to find how to use them.
+
+**Tutorial Navigation**
