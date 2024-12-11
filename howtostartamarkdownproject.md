@@ -22,12 +22,12 @@
    automatically set up to be used with Markdown. Finally, click on the Create repository button on the bottom of
    the screen and you're ready to get into it!
 
-   **Tutorial Navigation**
+**Tutorial Navigation**
    
-   Tutorial Starting Page: [Tutorial Starting Page](https://github.com/rlwx3k/Digital-Concept-Tutorial/tree/main)
+Tutorial Starting Page: [Tutorial Starting Page](https://github.com/rlwx3k/Digital-Concept-Tutorial/tree/main)
 
-   What GitHub and Markdown Are page: [What GitHub and Markdown Are](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/whatgithubandmarkdownare.md)
+What GitHub and Markdown Are page: [What GitHub and Markdown Are](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/whatgithubandmarkdownare.md)
 
-   Making Your Markdown Project page: [Making Your Markdown Project](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/makingyourmarkdownproject.md)
+Making Your Markdown Project page: [Making Your Markdown Project](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/makingyourmarkdownproject.md)
 
-   Some Useful Markdown Composition to Know page: [Some Useful Markdown Composition to Know](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/someusefulmarkdowncompositiontoknow.md)
+Some Useful Markdown Composition to Know page: [Some Useful Markdown Composition to Know](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/someusefulmarkdowncompositiontoknow.md)
