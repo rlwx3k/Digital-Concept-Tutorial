@@ -1,5 +1,7 @@
 ## Some Useful Markdown Composition to Know
 
+**Remember: You can always view the code for this page to see its Markdown composition!**
+
 ### Headers
 As I have used throughout this tutorial, headers are an important part of Markdown pages. They can be used when putting the
 required number of # marks and a space before the header's text. Note that if you do not put a space between the # marks and
@@ -9,8 +11,8 @@ horizontal line under the respective header, as can be seen below:
 ## The second largest header size/medium size.
 
 ### Italicizing and Bolding Text
-Knowing how to put emphasis on text is helpful, especially when you're wanting to draw attention to a particular section of it.
-In order to italicize text, all you need to do is surround the text you want to italicize in 
+Knowing how to put emphasis on text is helpful, especially when you're wanting to draw attention to a particular section of it. In order to italicize text, all you need to do is surround the text you want to italicize in one asterisk (*) on both sides of the text, like so: *this text is italicized*. In order to bold text, all you need to do is surround the text you
+want to bold with two asterisks on both sides of the text, like so: **this text is bolded**.
 
 **Tutorial Navigation**
    
