@@ -16,6 +16,8 @@ From there, you may either choose to cancel changes, which in the case you've ju
    
 Tutorial Starting Page: [Tutorial Starting Page](https://github.com/rlwx3k/Digital-Concept-Tutorial/tree/main)
 
+What GitHub and Markdown Are page: [What GitHub and Markdown Are](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/whatgithubandmarkdownare.md)
+
 How to Start a Markdown Project in GitHub page: [How to Start a Markdown Project in GitHub](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/howtostartamarkdownproject.md)
 
 Some Useful Markdown Composition to Know page: [Some Useful Markdown Composition to Know](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/someusefulmarkdowncompositiontoknow.md)
