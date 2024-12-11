@@ -26,6 +26,8 @@
    
    Tutorial Starting Page: [Tutorial Starting Page](https://github.com/rlwx3k/Digital-Concept-Tutorial/tree/main)
 
+   What GitHub and Markdown Are page: [What GitHub and Markdown Are](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/whatgithubandmarkdownare.md)
+
    Making Your Markdown Project page: [Making Your Markdown Project](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/makingyourmarkdownproject.md)
 
    Some Useful Markdown Composition to Know page: [Some Useful Markdown Composition to Know](https://github.com/rlwx3k/Digital-Concept-Tutorial/blob/main/someusefulmarkdowncompositiontoknow.md)
