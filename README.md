@@ -3,10 +3,10 @@
 ## Megan Winans
 
 The purpose of this tutorial is to help guide people who may have just started out using GitHub and Markdown through the process of what it
-is and how exactly they can create something utilizing them. (May update it to better convey what's actually in the tutorial).
+is and how exactly they can create something utilizing them.
 
 The target audience for this tutorial is people with possibly little, if no, knowledge regarding how to use GitHub and Markdown, hence the
-use of the word beginners in the tutorial's name.
+use of the word beginners in the tutorial's name. My hope is that it will make the process easier for them.
 
 I decided to do this as my tutorial because I felt extremely lost my first time around using GitHub and trying to do an assignment using
 Markdown and different pages, so I want others to be able to actually know how to navigate their way around instead of having to dig a hole 
