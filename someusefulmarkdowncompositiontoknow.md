@@ -3,7 +3,14 @@
 ### Headers
 As I have used throughout this tutorial, headers are an important part of Markdown pages. They can be used when putting the
 required number of # marks and a space before the header's text. Note that if you do not put a space between the # marks and
-the text, it won't register it as a header. There are three different header sizes: one # for the biggest size, ## for the medium size, and ### for the smallest size.
+the text, it won't register it as a header. There are three different header sizes: one # for the biggest size, ## for the medium size, and ### for the smallest size. For the first two size options, also take note that the program draws a
+horizontal line under the respective header, as can be seen below:
+# The largest header size.
+## The second largest header size/medium size.
+
+### Italicizing and Bolding Text
+Knowing how to put emphasis on text is helpful, especially when you're wanting to draw attention to a particular section of it.
+In order to italicize text, all you need to do is surround the text you want to italicize in 
 
 **Tutorial Navigation**
    
