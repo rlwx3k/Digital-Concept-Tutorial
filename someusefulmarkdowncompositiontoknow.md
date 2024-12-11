@@ -15,7 +15,10 @@ Knowing how to put emphasis on text is helpful, especially when you're wanting t
 want to bold with two asterisks on both sides of the text, like so: **this text is bolded**.
 
 ### Lists
-Lists can be implemented in Markdown quite easily. The composition you use depends on whether you want your list ordered or not. For an ordered/numbered list, just start out with the number one and a period after it, then, after typing in the first list item's contents, you can hit enter and it will automatically give you the next item in the list. For a dash marks/unordered list, you can start out with a dash (-) mark, type in its contents, and, like the numbered list, hit enter and then continue on typing the next thing in the list.
+Lists can be implemented in Markdown quite easily. The composition you use depends on whether you want your list ordered or not. For an ordered/numbered list, just start out with the number one and a period after it, then, after typing in the first list item's contents, you can hit enter and it will automatically give you the next item in the list. For a dash marks/unordered list, you can start out with a dash (-) mark, type in its contents, and, like the numbered list, hit enter and then continue on typing the next thing in the list. Make sure that the starting text and what's indicating the list have a space in between them starting out with, or else it won't register as a list.
+
+### How to Implement Links
+Including links in Markdown isn't tricky; however, what I found difficult at first was how to navigate in between the different Markdown pages, as I did in this tutorial. All you need to do is surround the title you want to be displayed for your link in brackets [ ] and, afterwards, place the link of your destination in parentheses ( ), meaning there's not a space between the two items. For example, if you want to be able to navigate easily between your other file pages, you will need to get the URL of them and paste them into the file you want to be able to navigate from. An example of this implementation can be found in the Tutorial Navigation section, which is found below.
 
 **Tutorial Navigation**
    
